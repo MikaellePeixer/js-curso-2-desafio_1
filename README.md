@@ -53,4 +53,42 @@ O projeto consiste em uma interface simples com quatro botões, cada um executan
 ---
 
 ## Estrutura de Arquivos
+/ ├── index.html # Estrutura principal do projeto ├── style.css # Arquivo de estilos └── app.js # Lógica e interatividade em JavaScript
+
+yaml
+Copiar código
+
+---
+
+## Demonstração
+
+Interface simples com quatro botões:
+
+- **Console**
+- **Alert**
+- **Prompt**
+- **Soma**
+
+Os botões executam ações específicas para interação com o usuário.
+
+---
+
+## Aprendizados
+
+- Manipulação do DOM com JavaScript.
+- Uso de `console.log`, `alert` e `prompt`.
+- Validação de entrada do usuário.
+- Estruturação de projetos básicos com HTML, CSS e JavaScript.
+
+---
+
+## Licença
+
+Este projeto é livre para uso educacional e pessoal.
+
+
+
+
+
+
 
