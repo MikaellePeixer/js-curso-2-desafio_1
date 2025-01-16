@@ -53,10 +53,10 @@ O projeto consiste em uma interface simples com quatro botões, cada um executan
 ---
 
 ## Estrutura de Arquivos
-/ ├── index.html # Estrutura principal do projeto ├── style.css # Arquivo de estilos └── app.js # Lógica e interatividade em JavaScript
-
-yaml
-Copiar código
+/                # Pasta raiz do projeto
+├── index.html   # Arquivo principal que contém o código HTML
+├── style.css    # Arquivo onde estão os estilos (CSS) para a página
+└── app.js       # Arquivo JavaScript com a lógica e as interações
 
 ---
 
