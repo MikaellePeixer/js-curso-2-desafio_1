@@ -52,11 +52,12 @@ O projeto consiste em uma interface simples com quatro botões, cada um executan
 
 ---
 
-## Estrutura de Arquivos
-/                # Pasta raiz do projeto
-├── index.html   # Arquivo principal que contém o código HTML
-├── style.css    # Arquivo onde estão os estilos (CSS) para a página
-└── app.js       # Arquivo JavaScript com a lógica e as interações
+### Estrutura de Arquivos do Projeto
+
+- **index.html**: Arquivo principal que contém a estrutura HTML da página.  
+- **style.css**: Arquivo responsável pela estilização da página.  
+- **app.js**: Arquivo que contém a lógica e as interações em JavaScript.
+
 
 ---
 
